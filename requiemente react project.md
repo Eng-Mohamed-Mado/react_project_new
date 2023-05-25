@@ -27,4 +27,4 @@
 } and run npm postinstall after add any link 
 
 <!-- // upload file on github // -->
-git add . && git commit -m "setup Project React" && git push
+git add . && git commit -m "setup Project React" && git push -u origin main
